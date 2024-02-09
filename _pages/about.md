@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Who am I?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 Soy estudiante de décimo semestre del programa de Biología de la Facultad de Ciencias Básicas y Tecnologías en la Universidad del Quindío, Colombia.
 Actualmente estoy desarrollando mi trabajo de grado sobre la relación entre el riesgo de depredación, señales de advertencia y cuidado parental en ranas venenosas Dentrobatidae. Además, soy auxiliar de docencia en la Colección de Anfibios y Reptiles de la universidad del Quindío ARUQ, hago parte del 
 grupo de investigación en Evolución, Ecología & Conservación EECO y del grupo de herpetología de la universidad del Quindío GHUQ desde el 2016.
