@@ -1,7 +1,7 @@
 ---
-permalink: /about
-title: Who am I?
-excerpt: About me
+permalink: /
+title: "Who am I?"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
