@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maria Paula Toro-Gómez"
+title                    : " Homepage Maria Paula"
 title_separator          : "-"
 name                     : &name "Maria Paula Toro-Gómez"
 description              : &description "I am a Colombian Biologist from Universidad del Quindío, with a keen interest in the behavioral and evolutionary ecology of amphibians, focusing on animal communication and the impact of the environment on behavior and adaptation"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Maria Paula Toro-Gómez"
   avatar           : "profile.png"
-  bio              : "BSc Scienci Biology"
+  bio              : "BSc Science Biology"
   location         : "Pijao, Quindio Colombia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EAzZLkUAAAAJ&hl=es"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "mptorogomez@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Maria-Toro-Gomez"
   uri              :
   bitbucket        :
   codepen          :
