@@ -7,16 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 🇨🇴 Colombian biologist! 
+Hello! I'm a Colombian biologist 🇨🇴 with a passion for uncovering the secrets of nature. I have a particular fondness for frogs 🐸, and I love delving into the realms of behavioral ecology and animal behavior. I'm also an ice cream enthusiast 🍦 and a chocolate lover!
 
-What i like?
-I like frogs 🐸, i like to unveil the secrets of nature! Also an Ice cream cather 🍦 and a Chocolate lover!
+As a Junior Investigator for the Ministry of Science, Technology, and Innovation, I'm currently engaged in projects documenting how the armed conflict in Colombia affects Indigenous communities and studying how amphibians respond to these situations. My focus includes behavioral ecology, and I like to humorously refer to it as "frog spy" 🥷🏾.
 
-🔬 My research interest are on Behavioral Ecology, Animal behavior, 🥷🏾 frog spy 
+This research not only contributes to the scientific understanding of these issues but also seeks to address challenges in a creative way. Exploring the intricate interactions between human activities, conflict, and the natural world is a crucial area of study.
 
-📚 Currently i am a Junior Investigator, of the Minister of Science, Technology and Innovation
-Where we are working to proyects that documents how the army conflict in Colombia has effects on Indigenous communities and how amphibians respond to these
-
-
-**Selected experience**
-
+Outside my scientific life, I find balance as an ice cream connoisseur and a chocolate aficionado. Maintaining a well-rounded life is essential, and I'm excited about the upcoming projects in the fascinating world of biology!
