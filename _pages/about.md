@@ -1,16 +1,20 @@
 ---
 permalink: /
-title: " 👋🏾 Hi there, I'm Maria Paula Toro-Gómez"
+title: " Welcome to my scientific corner! 🐸🔬📚👩🏽‍💻"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello! I'm a Colombian biologist 🇨🇴 with a passion for uncovering the secrets of nature. I have a particular fondness for frogs 🐸, and I love delving into the realms of behavioral ecology and animal behavior. I'm also an ice cream enthusiast 🍦 and a chocolate lover!
 
-As a Junior Investigator for the Ministry of Science, Technology, and Innovation, I'm currently engaged in projects documenting how the armed conflict in Colombia affects Indigenous communities and studying how amphibians respond to these situations. My focus includes behavioral ecology, and I like to humorously refer to it as "frog spy" 🥷🏾.
 
-This research not only contributes to the scientific understanding of these issues but also seeks to address challenges in a creative way. Exploring the intricate interactions between human activities, conflict, and the natural world is a crucial area of study.
+Hi there, I’m Maria Paula Toro-Gómez, a Biologist, from the University of Quindío, in Colombia. 
+I am interested in the ecological and evolutionary complexities of amphibians 🐸, especially from a behavioral perspective. Currently, I am a member of the Evolution, Ecology and Conservation Research Group (EECO) of the same university directed by Prof. Fernando Vargas-Salinas (https://www.fvargas-eeco.org/). Here I have honed essential skills in research, writing, amphibian and reptile tracking, sampling methods, specimen preparation and many other scientific skills of the "frog spy" 🥷🏾
 
-Outside my scientific life, I find balance as an ice cream connoisseur and a chocolate aficionado. Maintaining a well-rounded life is essential, and I'm excited about the upcoming projects in the fascinating world of biology!
+I currently work as a junior researcher at the Ministry of Science, Technology and Innovation of the Colombian Government. In this position, I am actively involved in projects that meticulously document the impact of the armed conflict on indigenous communities in Colombia, as well as how amphibians respond to the intricate interaction between human activities, conflict and the natural world. My professional career has been enriched by delving into projects that revolve around the analysis of passive acoustic monitoring recordings. A focal point of my expertise lies in the development of state-of-the-art deep learning models for automatic audio classification. This not only underscores my commitment to ecological research, but also highlights the fascinating intersection between technology and its application in understanding our natural environment.
+
+Beyond my research activities, I am an advocate for science outreach and effective communication.I live surrounded by mountains in my small town Pijao, Quindío. I am an ice cream enthusiast 🍦 and chocolate lover!
+
+
+
