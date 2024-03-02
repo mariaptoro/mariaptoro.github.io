@@ -31,7 +31,7 @@ redirect_from:
   </p>
 </div>
 
-<img src="images/banner.jpg">
+
 
 
 
