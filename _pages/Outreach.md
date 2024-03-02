@@ -7,4 +7,4 @@ author_profile: true
 
 This page is currently under construction 👷, but here you have a hint 👇
 
-![Outreach Image](/mariaptoro.github.io/images/outreach.jpg)
+![Outreach Image](C:\Users\maria\GitHub pages\mariaptoro.github.io\images\outreach.jpg)
