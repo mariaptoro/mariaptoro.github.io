@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Homepage Maria Paula"
+title                    : " Maria Paula Toro-Gómez"
 title_separator          : "-"
 name                     : &name "Maria Paula Toro-Gómez"
-description              : &description "I am a Colombian Biologist from Universidad del Quindío, with a keen interest in the behavioral and evolutionary ecology of amphibians, focusing on animal communication and the impact of the environment on behavior and adaptation"
+description              : &description "Exploring the behavioral and evolutionary ecology of amphibians. Learn more about my research, publications, and passion for animal communication"
 url                      : https://mariaptoro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mariaptoro/mariaptoro.github.io"
