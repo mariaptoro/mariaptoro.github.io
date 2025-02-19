@@ -2,12 +2,5 @@ title: Maria Paula Toro-Gómez
 logo: /assets/img/profile.png
 description: "Hi! I am Maria Paula, an HERper girl from <i>CO</i>. Passionate for frogs, enthusiastic of chocolate, living in the middle of the mountains."
 show_downloads: false
+favicon: /assets/img/flavicon.png
 theme: jekyll-theme-minimal
-
-# Redes sociales y perfiles académicos con emojis
-social_links:
-  ResearchGate: https://www.researchgate.net/profile/Maria-Toro-Gomez
-  Google Scholar: https://scholar.google.es/citations?user=EAzZLkUAAAAJ&hl=es&authuser=2
-  OrcID: https://orcid.org/0000-0001-8875-6619
-  Bluesky: https://bsky.app/profile/mariaptoro.bsky.social
-  X: https://x.com/mariaptoro
