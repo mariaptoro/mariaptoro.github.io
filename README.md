@@ -1,9 +1,9 @@
 # mariaptoro.github.io
-#Maria Paula Toro Gomez
+# Maria Paula Toro-Gómez
 
-###About me
-Biologist BSc
+### About me
+Biologist passionate about behavioral and evolutionary ecology,using sound to explore the adaptability to ecological crisis
 
-###Research interest
-Behavioral and evolutionary ecology of amphibians
+### Research interest
+Ice cream
 
