@@ -1,4 +1,3 @@
-# mariaptoro.github.io
 # Maria Paula Toro-Gómez
 
 ### About me
