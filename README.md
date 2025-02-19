@@ -26,6 +26,7 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 ### Outreach 
 
 *   BBC and ASN
+![American Society of Naturalist](/assets/img/AWARD.png)
 
 ### Conferences summing up
 
