@@ -4,9 +4,9 @@
 
 I’m Maria Paula, a biologist researcher at the [Humboldt Institute](http://www.humboldt.org.co/es)(IAvH). My research interests span the fields of behavioral and evolutionary ecology, biodiversity monitoring, climate change, and anthropogenic impact, using bioacoustics and amphibians as a study group. Currently, I’m working on creating datasets based on passive acoustic monitoring  of different taxonomic groups to provide tools for monitoring the Neotropics.
 
-Previously, I was a junior researcher in the [Orchids program](https://programaorquideas.minciencias.gov.co/)of the Ministerio de Ciencia y Tecnologia in Colombia, this program is dedicated to women in science, to develop projects that identify the causes of Violence in Colombia, through this project I was involved in monitoring amphibians with Awá Indigenous communities at the southeast of Colombian pacific. My undergraduate studies were at the [University of Quindio](https://www.uniquindio.edu.co/) in the [EECO group] (https://www.fvargas-eeco.org/), of the Biology Program where I worked on the relationship between parental care and antipredator strategies such as aposematism in poison frogs.
+Previously, I was a junior researcher in the [Orchids program](https://programaorquideas.minciencias.gov.co/)of the Ministerio de Ciencia y Tecnologia in Colombia, this program is dedicated to women in science, to develop projects that identify the causes of Violence in Colombia, through this project I was involved in monitoring amphibians with Awá Indigenous communities at the southeast of Colombian pacific. My undergraduate studies were at the [University of Quindio](https://www.uniquindio.edu.co/) in the [EECO group](https://www.fvargas-eeco.org/), of the Biology Program where I worked on the relationship between parental care and antipredator strategies such as aposematism in poison frogs.
 
- [ResearchGate](https://www.researchgate.net/profile/Maria-Toro-Gomez) / [Google Scholar](https://scholar.google.es/citations?user=EAzZLkUAAAAJ&hl=es&authuser=2)/ [OrcID](https://orcid.org/0000-0001-8875-6619) / [Bluesky](https://bsky.app/profile/mariaptoro.bsky.social) & X as [mariaptoro](https://x.com/mariaptoro)
+[ResearchGate](https://www.researchgate.net/profile/Maria-Toro-Gomez) / [Google Scholar](https://scholar.google.es/citations?user=EAzZLkUAAAAJ&hl=es&authuser=2)/ [OrcID](https://orcid.org/0000-0001-8875-6619) / [Bluesky](https://bsky.app/profile/mariaptoro.bsky.social) & X as [mariaptoro](https://x.com/mariaptoro)
 
 
 ### Publications
@@ -23,19 +23,16 @@ Previously, I was a junior researcher in the [Orchids program](https://programao
 Ecology and biodiversity monitoring have a symbiotic relationship with machine learning. On one hand, machine learning offers a set of novel methods to process, extract, and analyze ecological data. On the other hand, ecology could be seen as a playground for exploring the scientific foundations of machine learning. Ecological systems are unique in scale, complexity, and richness. These problems often involve multiple parties for combinatorial decisions in highly dynamic and uncertain environments. Hence, machine learning challenges arise such as domain shift, spatiotemporal correlations, fine-grained categories, learning across data modalities, self-supervised representation learning, human-machine collaboration, and long-tailed distributions. Finally, I'm also interested in how to work together with local communities to co-create conservation tools that have an impact on biodiversity conservation.
 
 
-### Media (in Spanish)
+### Outreach 
 
-*   Así utilizan la inteligencia artificial para la conservación de animales en Colombia. [El Espectador](https://www.elespectador.com/la-red-zoocial/asi-utilizan-la-inteligencia-artificial-para-la-conservacion-de-animales-en-colombia/)
-*   Humboldt y FCDS monitorearán la biodiversidad en los proyectos de forestería comunitaria. [FCDS](https://fcds.org.co/humboldt-y-fcds-monitorearan-la-biodiversidad/)
+*   BBC and ASN
 
-### Other 
+### Conferences summing up
 
-*   *Hiking and Running.* I endorse the [philosophical manifesto](https://www.harukimurakami.com/book/what-i-talk-about-when-i-talk-about-running-a-memoir) by Murakami about running. I try to expand this in different landscapes. Sometimes, I track my running activity on [Strava](https://www.strava.com/athletes/13042082).
-*   *Music.* I'm a ~~bug~~ collector of [playlists](https://open.spotify.com/user/jscanass/playlists).
-*  *Films and Literature.* I found [Cormac McCarthy’s tips](https://www.nature.com/articles/d41586-019-02918-5) for short tales very similar to [Roberto Bolaño's](https://lithub.com/roberto-bolanos-best-advice-for-writing-short-stories-is-pretty-wild/) advice on how to write a great science papers.
+* love swimming
 
 
 ### Contact
 
-If you'd like to discuss anything above, feel free to email me at juan.canas (at) ucl.ac.uk
+Feel free to email me at mtoro (at) humboldt.org.co
 
