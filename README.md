@@ -22,7 +22,6 @@ Previously, I was a junior researcher in the [Orchids program](https://programao
 
 Ecology and biodiversity monitoring have a symbiotic relationship with machine learning. On one hand, machine learning offers a set of novel methods to process, extract, and analyze ecological data. On the other hand, ecology could be seen as a playground for exploring the scientific foundations of machine learning. Ecological systems are unique in scale, complexity, and richness. These problems often involve multiple parties for combinatorial decisions in highly dynamic and uncertain environments. Hence, machine learning challenges arise such as domain shift, spatiotemporal correlations, fine-grained categories, learning across data modalities, self-supervised representation learning, human-machine collaboration, and long-tailed distributions. Finally, I'm also interested in how to work together with local communities to co-create conservation tools that have an impact on biodiversity conservation.
 
-
 ### Outreach 
 
 * The description of a new species of Glassfrog from Colombia, Nymphargus
