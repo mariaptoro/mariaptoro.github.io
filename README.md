@@ -39,9 +39,7 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 Bioacoustalks
 [![Bioacoustics Video](https://img.youtube.com/vi/nP31AXiEl1Q/0.jpg)](https://www.youtube.com/watch?v=nP31AXiEl1Q)
 
-![3cch](/assets/img/herphig.png)
 
-### Contact
 
-Feel free to email me at mtoro (at) humboldt.org.co
+
 
