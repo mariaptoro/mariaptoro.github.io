@@ -25,13 +25,22 @@ Ecology and biodiversity monitoring have a symbiotic relationship with machine l
 
 ### Outreach 
 
-*   BBC and ASN
+* The description of a new species of Glassfrog from Colombia, Nymphargus
+![Pijao](/assets/img/pijao1.png)
+![Pijao](/assets/img/pijao2.png)
+
+*   Outstanding student poster Award by the American Society of Naturalist at #Evolution 2023
 ![American Society of Naturalist](/assets/img/AWARD.png)
 
-### Conferences summing up
+*   Best Oral presentation Award at #3CCH Colombian Herpetology Congress
+![3cch](/assets/img/3cch.png)
 
-* love swimming
+### Podcast and talks
 
+Bioacoustalks
+[![Bioacoustics Video](https://img.youtube.com/vi/nP31AXiEl1Q/0.jpg)](https://www.youtube.com/watch?v=nP31AXiEl1Q)
+
+![3cch](/assets/img/herphig.png)
 
 ### Contact
 
