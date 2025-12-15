@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-# Maria Paula Toro-Gómez
-
-**Biologist | Bioacoustics | Neotropical biodiversity**
-
 Biologist researcher at the Alexander von Humboldt Biological Resources Research Institute (IAvH). I work at the intersection of bioacoustics, biodiversity monitoring, and amphibian ecology.
 
 [Download CV (PDF)](/assets/img/cv.pdf)
