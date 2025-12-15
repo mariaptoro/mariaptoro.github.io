@@ -9,7 +9,7 @@ title: Home
 
 Biologist researcher at the Alexander von Humboldt Biological Resources Research Institute (IAvH). I work at the intersection of bioacoustics, biodiversity monitoring, and amphibian ecology.
 
-[Download CV (PDF)](/assets/files/cv.pdf)
+[Download CV (PDF)](/assets/img/cv.pdf)
 
 ---
 
