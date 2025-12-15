@@ -8,8 +8,6 @@ title: Home
 Biologist researcher at the Humboldt Institute (IAvH). I work at the intersection of bioacoustics, biodiversity monitoring, and amphibian ecology. 
 [Download CV](/assets/img/CV_MariaPaulaToroGomez_2025.pdf)
 
-# María Paula Toro-Gómez
-
 I’m Maria Paula, a biologist and researcher at the [Alexander von Humboldt Biological Resources Research Institute](http://www.humboldt.org.co/es) (IAvH), where I work at the Biological Collections and Species Management Centre, specifically with the Environmental Sound Collection.
 
 My research interests span behavioral and evolutionary ecology, biodiversity monitoring, climate change, and anthropogenic impacts, using amphibians and bioacoustics as a study system. I am particularly interested in passive acoustic monitoring and the development of ecological datasets that support biodiversity assessment and conservation in the Neotropics. My work integrates field ecology, biological collections, and acoustic data analysis, often in interdisciplinary and collaborative contexts.
