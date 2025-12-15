@@ -9,5 +9,5 @@ Biologist researcher at the Humboldt Institute (IAvH). I work at the intersectio
 
 [About](/about/) · [Research](/research/) · [Publications](/publications/) · [Outreach](/outreach/) · [Contact](/contact/)
 
-[Download CV](/assets/img/CV_MariaPaulaToroGomez.pdf)
+[Download CV](/assets/img/CV_MariaPaulaToroGomez_2025.pdf)
 
