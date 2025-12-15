@@ -5,8 +5,13 @@ title: Home
 
 # Maria Paula Toro-Gómez
 
-Biologist researcher at the Humboldt Institute (IAvH). I work at the intersection of bioacoustics, biodiversity monitoring, and amphibian ecology. 
-[Download CV](/assets/img/CV_MariaPaulaToroGomez_2025.pdf)
+**Biologist | Bioacoustics | Neotropical biodiversity**
+
+Biologist researcher at the Alexander von Humboldt Biological Resources Research Institute (IAvH). I work at the intersection of bioacoustics, biodiversity monitoring, and amphibian ecology.
+
+[Download CV (PDF)](/assets/files/cv.pdf)
+
+---
 
 I’m Maria Paula, a biologist and researcher at the [Alexander von Humboldt Biological Resources Research Institute](http://www.humboldt.org.co/es) (IAvH), where I work at the Biological Collections and Species Management Centre, specifically with the Environmental Sound Collection.
 
@@ -18,10 +23,14 @@ Previously, I was a junior researcher in the [Orquídeas – Science for Peace P
 
 I obtained my undergraduate degree in Biology from the [Universidad del Quindío](https://www.uniquindio.edu.co/), where I was part of the [EECO research group](https://www.fvargas-eeco.org/). My undergraduate thesis explored the relationship between parental care and antipredator strategies, specifically aposematic coloration, in poison frogs (Dendrobatidae).
 
-[ResearchGate](https://www.researchgate.net/profile/Maria-Toro-Gomez) /  
-[Google Scholar](https://scholar.google.es/citations?user=EAzZLkUAAAAJ&hl=es&authuser=2) /  
-[ORCID](https://orcid.org/0000-0001-8875-6619) /  
-[Bluesky](https://bsky.app/profile/mariaptoro.bsky.social) /  
+---
+
+### Academic profiles
+
+[ResearchGate](https://www.researchgate.net/profile/Maria-Toro-Gomez) ·  
+[Google Scholar](https://scholar.google.es/citations?user=EAzZLkUAAAAJ&hl=es&authuser=2) ·  
+[ORCID](https://orcid.org/0000-0001-8875-6619) ·  
+[Bluesky](https://bsky.app/profile/mariaptoro.bsky.social) ·  
 X: [@mariaptoro](https://x.com/mariaptoro)
 
 ---
@@ -56,26 +65,22 @@ X: [@mariaptoro](https://x.com/mariaptoro)
 ### Book chapters
 
 * Rivera-Robles D, Rojas-Montoya M, Toro-Gómez MP, et al. (2025).  
-  Puestas y larvas de los anfibios del departamento del Quindío, Colombia.  
-  In *Anfibios del departamento del Quindío, Colombia*.
+  *Puestas y larvas de los anfibios del departamento del Quindío, Colombia.*
 
 * Vargas-Salinas F, Toro-Gómez MP, et al. (2025).  
-  Beyond species richness: a behavioural perspective of Andean anuran diversity.  
-  In *Andean herpetofauna: Explorations of Diversity, Ecology, and Conservation*.
+  *Beyond species richness: a behavioural perspective of Andean anuran diversity.*
 
 ---
 
 ## Research interests
 
-Ecology and biodiversity monitoring have a strong and growing relationship with machine learning. On one hand, machine learning provides novel tools to process, extract, and analyze complex ecological data. On the other hand, ecological systems offer challenging and rich environments for exploring the foundations of machine learning due to their scale, complexity, and variability.
+Ecology and biodiversity monitoring have a strong and growing relationship with machine learning. Machine learning provides novel tools to process, extract, and analyze complex ecological data, while ecological systems offer challenging environments due to their scale, complexity, and variability.
 
-My research interests include challenges such as domain shift, spatiotemporal correlations, fine-grained acoustic classification, learning across data modalities, self-supervised learning, and long-tailed distributions. I am also deeply interested in collaborative research with local communities to co-create conservation tools that generate tangible impacts on biodiversity conservation.
+My interests include challenges such as domain shift, spatiotemporal correlations, fine-grained acoustic classification, learning across data modalities, self-supervised learning, and long-tailed distributions. I am also interested in collaborative research with local communities to co-create conservation tools with tangible impacts on biodiversity conservation.
 
 ---
 
 ## Mentorship, teaching & academic service
-
-I am actively involved in teaching, mentoring, and academic service, with a strong commitment to supporting early scientific vocations and interdisciplinary training.
 
 * Instructor, **Bonplandia Children’s Science Laboratory** (2025).  
   Science outreach program for primary school students (≈72 contact hours).
@@ -83,8 +88,7 @@ I am actively involved in teaching, mentoring, and academic service, with a stro
 * Instructor, **II Introductory Course on Bioacoustics for Herpetology** (2025).  
   Hybrid short course for undergraduate students and early-career professionals (≈32 contact hours).
 
-* Junior researcher mentor, **Campus 48 – XI National Meeting on Scientific Vocations** (MinCiencias, 2024).  
-  Academic guidance and mentorship for students interested in scientific careers.
+* Junior researcher mentor, **Campus 48 – XI National Meeting on Scientific Vocations** (MinCiencias, 2024).
 
 * Academic Committee Member, **Red Ecoacústica Colombiana** (2020–2025).
 
@@ -117,10 +121,6 @@ Machine Learning for Tropical Acoustic Monitoring: Challenges and Opportunities
 
 📧 **Email:** mtoro@humboldt.org.co  
 🔗 **ORCID:** https://orcid.org/0000-0001-8875-6619  
-🔗 **Google Scholar:** https://scholar.google.es/citations?user=EAzZLkUAAAAJ  
 🌍 **Location:** Colombia  
 
 I am open to research collaborations, interdisciplinary projects, mentoring opportunities, and international initiatives related to biodiversity conservation, bioacoustics, and science communication.
-
-
-
