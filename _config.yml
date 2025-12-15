@@ -5,3 +5,6 @@ Feel free to email me at mtoro(at)humboldt.org.co"
 show_downloads: false
 #favicon: /assets/img/flavicon.png
 theme: jekyll-theme-minimal
+
+include:
+  - _pages
