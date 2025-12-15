@@ -1,8 +1,12 @@
-Title: Maria Paula Toro-Gomez
+title: Maria Paula Toro-Gómez
+
 logo: /assets/img/profile.png
-description: "Hi! I am Maria Paula, an HERper girl from <i>CO</i>. Passionate for frogs, enthusiastic of chocolate, living in the middle of the mountains
-Feel free to email me at mtoro(at)humboldt.org.co"
-[Download CV](/assets/img/CV_MariaPaulaToroGomez_2025.pdf)
+
+description: >
+  Hi! I am Maria Paula, a biologist researcher at the Alexander von Humboldt Biological Resources Research Institute (IAvH).
+  My work focuses on bioacoustics, biodiversity monitoring, and amphibian ecology.
+  Feel free to email me at mtoro(at)humboldt.org.co
+
 show_downloads: false
-#flavicon: /assets/img/flavicon.png
+
 theme: jekyll-theme-minimal
